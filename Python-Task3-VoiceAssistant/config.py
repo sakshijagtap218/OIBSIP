@@ -1,0 +1,7 @@
+
+API_KEY = "ENTER YOUR API_KEY"
+NEWS_API_KEY ="NEWS_API_KEY"
+OPENAI_API_KEY ="sk-OPEN_API_KEY"
+EMAIL_ADDRESS = "xyz@gmail.com"
+EMAIL_APP_PASSWORD = "jhd dhh fgh"
+DEFAULT_EMAIL_TO = "abc@gmail.com"
